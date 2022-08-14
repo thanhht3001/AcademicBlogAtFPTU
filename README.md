@@ -1,2 +1,8 @@
-# AcademicBlogAtFPTU
-In the digital era, information and data on the Internet are considered extremely rich knowledge resources. People can easily find information and data through this resource, however, that also brings many difficulties. Particularly, students are having difficulty in selecting the most urgent content and topics for their majors and subjects at university. In addition, students who have extracted experiences and knowledge through subjects and topics do not have the way to disseminate to the right audience - the students at university. Therefore, the Academic Blog at FPTU (ABF) was released as a solution to these problems. ABF is a website for all students of FPT University, this is a place for students to learn, gather knowledge and share experiences about their major, especially their subject. With some challenges in finding materials for research, the website is expected to provide more knowledge for students.
+# AcademicBlogAtFPTU - ABF
+
+## Introduce about ABF
+![image](https://user-images.githubusercontent.com/90333333/184522759-0df7d9d1-402e-4a52-9a12-3e2aec87cbed.png)
+ABF is a place for the FPT university student community to come together to build it. By the experiences that I have experienced myself as well as the experiences that I have accumulated in the learning process. From there, share it with other readers who need to learn about that issue.
+
+
+
